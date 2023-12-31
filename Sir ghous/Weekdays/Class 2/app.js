@@ -209,5 +209,11 @@
 
 // Example 32
 
-var num = 20
-console.log(num + 10)
+// var num = 20
+// console.log(num + 10)
+
+
+// Example 33
+
+// var a = "Naima\nAhmad"
+// alert(a)
