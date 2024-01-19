@@ -217,3 +217,43 @@
 
 // var a = "Naima\nAhmad"
 // alert(a)
+
+
+// Example 34
+
+// var total = 2 + 3 * 4; 
+// console.log(total)
+
+
+// Example 35
+
+// var a = 4;
+// var b = 3;
+// var c = a++ - b-- + --a + a++;
+
+// console.log(c)
+
+
+// Example 36
+
+// var num = 2 + "2"
+
+// console.log(num)
+
+
+// Example 37
+
+// var first_name = "Naima"
+// var last_name = "Ahmad"
+
+// var full_Name = first_name +" "+ last_name
+// console.log(full_Name)
+
+
+// Example 38
+
+var first_name = prompt("Enter your Firstname :")
+var last_name = prompt("Enter your Lastname :")
+
+var full_Name = first_name +" "+ last_name
+console.log(full_Name)
