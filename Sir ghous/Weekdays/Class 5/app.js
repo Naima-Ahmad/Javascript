@@ -118,8 +118,67 @@
 
 // Example 12
 
+// var students = ["Naima","Laiba","Rabia"];
+
+// students.pop();
+
+// console.log(students);
+
+
+// Example 13
+
+// var students = ["Naima","Laiba","Rabia"];
+
+// var returnValue = students.pop();
+
+// console.log(returnValue);
+// console.log(students);
+
+
+// Example 14
+
+// var students = ["Naima","Laiba","Rabia"];
+
+// var returnValue = students.push("Aliha");
+
+// console.log(students);
+
+
+// Example 15
+
+// var students = ["Naima","Laiba","Rabia"];
+
+// var returnValue = students.push("Aliha","Yashfa","Eman","Asma","Minahil");
+
+// console.log(returnValue);
+// console.log(students);
+
+
+// Example 16
+
+// var students = ["Naima","Laiba","Rabia"];
+
+// var returnValue = students.unshift("Aliha","Yashfa","Eman","Asma","Minahil");
+
+// console.log(returnValue);
+// console.log(students);
+
+
+// Example 17
+
+// var students = ["Naima","Laiba","Rabia"];
+
+// var returnValue = students.shift();
+
+// console.log(returnValue);
+// console.log(students);
+
+
+// Example 18
+
 var students = ["Naima","Laiba","Rabia"];
 
-students.pop();
+var returnValue = students.shift();
 
+console.log(returnValue);
 console.log(students);
