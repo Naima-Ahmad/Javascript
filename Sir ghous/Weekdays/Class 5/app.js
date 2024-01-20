@@ -56,13 +56,22 @@
 // console.log(students)
 
 
-// Example 5
+// Example 6
 
-var students = ["Naima","Laiba","Rabia"]
-students[3] = "Maryam"
-students[4] = "Zunaira"
-students[5] = "Yashfa"
+// var students = ["Naima","Laiba","Rabia"]
+// students[3] = "Maryam"
+// students[4] = "Zunaira"
+// students[5] = "Yashfa"
 
-students[students.length - 1] = "Arsheya"
+// var totalStudents = students.length;
 
-console.log(students)
+// students[totalStudents.length - 1] = "Arsheya"
+
+// console.log(students)
+
+
+// Example 7
+
+var students = []
+
+console.log(students.length)
