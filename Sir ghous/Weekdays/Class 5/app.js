@@ -72,6 +72,54 @@
 
 // Example 7
 
-var students = []
+// var students = []
 
-console.log(students.length)
+// students[students.length] = "Naima"
+
+// console.log(students.length)
+
+
+// Example 8
+
+// var students = []
+
+// students[students.length] = "Naima"
+
+// console.log(students)
+
+
+// Example 9
+
+// var students = []
+
+// students[students.length] = "Naima"
+// students[students.length] = "Ahmad"
+
+// console.log(students)
+
+
+// Example 10
+
+// var students = ["Naima","Ahmad"];
+
+// students[5] = "Laiba"
+
+// console.log(students)
+
+
+// Example 11
+
+// var students = ["Naima","Ahmad"];
+
+// students[0] = "Laiba"
+
+// console.log(students)
+
+
+// Example 12
+
+var students = ["Naima","Laiba","Rabia"];
+
+students.pop();
+
+console.log(students);
