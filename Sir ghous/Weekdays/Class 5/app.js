@@ -178,7 +178,7 @@
 
 var students = ["Naima","Laiba","Rabia"];
 
-var returnValue = students.shift();
+var returnValue = students.splice(1,1);
 
 console.log(returnValue);
 console.log(students);
