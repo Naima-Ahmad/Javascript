@@ -34,7 +34,17 @@
 // alert(1name)
 
 // Example 10
-var name1 = "Naima";
-var name2 = "Ahmad";
-var fullName = name1+" "+name2
-alert(fullName)
+// var name1 = "Naima";
+// var name2 = "Ahmad";
+// var fullName = name1+" "+name2
+// alert(fullName)
+
+// Example 11
+// var num1 = 10
+// var num2 = 10
+// alert(num1+num2)
+
+// Example 12
+var num = 10
+num = num+5
+alert(num)
