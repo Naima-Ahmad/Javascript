@@ -14,3 +14,27 @@
 // var myName = "Naima Ahmad"
 // alert(myName)
 
+// Example 6
+// var myAge;
+// myAge = "12 years old"
+// alert("I am "+myAge)
+
+// Example 7
+// var num1 = 2
+// var num2 = "2"
+// alert(num1+num2)
+
+// Example 8
+// var myNameIs = 'Naima Ahmad';
+// var iAmInClass = 'in class 6'
+// alert(myNameIs+"\n"+iAmInClass)
+
+// Example 9
+// var 1name = 'Naima';
+// alert(1name)
+
+// Example 10
+var name1 = "Naima";
+var name2 = "Ahmad";
+var fullName = name1+" "+name2
+alert(fullName)
