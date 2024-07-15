@@ -60,8 +60,15 @@
 // console.log(num9/num10);
 
 // Example 14
-var num11 = 43;
-num11++;
-console.log(num11);
-num11--;
-console.log(num11)
+// var num11 = 40;
+// num11++;
+// console.log(num11);
+// num11--;
+// console.log(num11)
+
+// Example 15
+var num12 = 40;
+++num12;
+console.log(num12);
+--num12;
+console.log(num12)
