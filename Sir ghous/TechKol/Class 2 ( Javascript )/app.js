@@ -55,6 +55,13 @@
 // console.log(num7-num8);
 
 // Example 13
-var num9 = "40";
-var num10 = 20;
-console.log(num9/num10);
+// var num9 = "40";
+// var num10 = 20;
+// console.log(num9/num10);
+
+// Example 14
+var num11 = 43;
+num11++;
+console.log(num11);
+num11--;
+console.log(num11)
