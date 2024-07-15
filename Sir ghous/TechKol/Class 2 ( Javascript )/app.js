@@ -67,8 +67,12 @@
 // console.log(num11)
 
 // Example 15
-var num12 = 40;
-++num12;
-console.log(num12);
---num12;
-console.log(num12)
+// var num12 = 40;
+// ++num12;
+// console.log(num12);
+// --num12;
+// console.log(num12)
+
+// Example 16
+var num13 = 20;
+num13 = num13+30;
