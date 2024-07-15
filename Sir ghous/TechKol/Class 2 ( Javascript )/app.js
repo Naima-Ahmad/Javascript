@@ -76,3 +76,4 @@
 // Example 16
 var num13 = 20;
 num13 = num13+30;
+alert(num13)
