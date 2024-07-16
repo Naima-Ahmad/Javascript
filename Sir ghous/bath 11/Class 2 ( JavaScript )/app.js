@@ -11,4 +11,28 @@
 // alert(num1);
 
 // Example 4
-alert(10+10);
+// alert(10+10);
+// alert(10+"10");
+// alert("10"+10);
+
+// Example 5
+// var salePrice = 30;
+// var costPrice = 50;
+// var profit = salePrice + costPrice;
+// console.log(profit)
+
+// Example 6
+// var num = 20;
+// alert(num);
+// num++;
+// alert(num);
+// num--;
+// alert(num);
+// ++num;
+// alert(num);
+// --num;
+// alert(num);
+
+// Example 7
+var num = 2 + 2 * ( 3 - 2 ) - 4 * 5;
+alert(num);
