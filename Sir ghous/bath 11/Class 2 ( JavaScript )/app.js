@@ -1,9 +1,9 @@
 // Example 1
-// document.write("Hello I am practicing javascript.")
+// document.write("Hello I am practicing javascript.");
 
 // Example 2
-// var mess = "Hello World!"
-// document.write("<h1>"+mess+"<h1>")
+// var mess = "Hello World!";
+// document.write("<h1>"+mess+"<h1>");
 
 // Example 3
 // var num1 = 3;
@@ -19,7 +19,7 @@
 // var salePrice = 30;
 // var costPrice = 50;
 // var profit = salePrice + costPrice;
-// console.log(profit)
+// console.log(profit);
 
 // Example 6
 // var num = 20;
