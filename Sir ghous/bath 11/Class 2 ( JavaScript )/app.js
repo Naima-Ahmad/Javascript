@@ -34,5 +34,13 @@
 // alert(num);
 
 // Example 7
-var num = 2 + 2 * ( 3 - 2 ) - 4 * 5;
-alert(num);
+// var num = 2 + 5 * 4 - 5;
+// alert(num);
+
+// Example 8
+// var num = 2 + 2 * ( 3 - 2 ) - 4 * 5;
+// alert(num);
+
+// Example 9
+var a = 10;
+var b = 20;
