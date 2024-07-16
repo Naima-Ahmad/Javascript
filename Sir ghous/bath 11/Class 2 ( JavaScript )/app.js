@@ -42,7 +42,13 @@
 // alert(num);
 
 // Example 9
-var a = 10;
-var b = 20;
-var num = a++ - ++b + --a * --b
-alert(num)
+// var a = 2;
+// var b = 4;
+// var num = a++ - ++b + --a * --b;
+// alert(num);
+
+// Example 10
+var a = 2;
+var b = 4;
+var num = (a++ + ++b) - --a + --b - ++a + --a;
+alert(num);
