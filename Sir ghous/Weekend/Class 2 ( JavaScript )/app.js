@@ -58,10 +58,19 @@
 // console.log(spec);
 
 // Example 12
-var info = prompt("What's your gender?");
-if(info === "Female"){
-    console.log("Hello! Mam...")
+// var info = prompt("What's your gender?");
+// if(info === "Female"){
+//     console.log("Hello! Mam...")
+// }
+// else{
+//     console.log("Hello! Sir...")
+// }
+
+// Example 13
+var num = +prompt("Enter a number:");
+if(num % 2 == 0){
+    console.log("It's an Even number.")
 }
 else{
-    console.log("Hello! Sir...")
+    console.log("It's an Odd number.")
 }
