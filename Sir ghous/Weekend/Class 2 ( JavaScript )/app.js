@@ -44,5 +44,24 @@
 // console.log(resultOfComputation);
 
 // Example 9
-var userName = "Naima"
-alert("Thanks, " + userName + "!");
+// var userName = "Naima"
+// alert("Thanks, " + userName + "!");
+
+// Example 10
+// var message = "Thanks, ";
+// var userName = "Naima"
+// var banger = "!";
+// alert(message + userName + banger);
+
+// Example 11
+// var spec = prompt("Your species?", "human");
+// console.log(spec);
+
+// Example 12
+var info = prompt("What's your gender?");
+if(info === "Female"){
+    console.log("Hello! Mam...")
+}
+else{
+    console.log("Hello! Sir...")
+}
