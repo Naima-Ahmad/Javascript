@@ -1,7 +1,7 @@
 // Example 1
 // var num = 5;
 // num = num + 1;
-// console.log(num)
+// console.log(num);
 
 // Example 2
 // var num1 = 2;
@@ -26,16 +26,16 @@
 // Example 6
 // var cats = 3;
 // var moreCats = cats + 1;
-// console.log(moreCats)
+// console.log(moreCats);
 
 // Example 7
 // var num1 = 2;
 // num1++;
-// num1--
-// ++num1
-// --num1
-// ++num1
-// console.log(num1)
+// num1--;
+// ++num1;
+// --num1;
+// ++num1;
+// console.log(num1);
 
 // Example 8
 // var totalCost = 1 + 3 * 4;
@@ -60,17 +60,17 @@
 // Example 12
 // var info = prompt("What's your gender?");
 // if(info === "Female"){
-//     console.log("Hello! Mam...")
+//     console.log("Hello! Mam...");
 // }
 // else{
-//     console.log("Hello! Sir...")
+//     console.log("Hello! Sir...");
 // }
 
 // Example 13
 var num = +prompt("Enter a number:");
 if(num % 2 == 0){
-    console.log("It's an Even number.")
+    console.log("It's an Even number.");
 }
 else{
-    console.log("It's an Odd number.")
+    console.log("It's an Odd number.");
 }
