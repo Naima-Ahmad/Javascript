@@ -19,6 +19,20 @@
 // console.log(num1*num2);
 
 // Example 5
-var mess = "Hello";
-var 1 = 2;
-console.log(num1*num2);
+// var mess = "Hello";
+// var 1 = 2;
+// console.log(num1*num2);
+
+// Example 6
+// var cats = 3;
+// var moreCats = cats + 1;
+// console.log(moreCats)
+
+// Example 7
+var num1 = 2;
+num1++;
+num1--
+++num1
+--num1
+++num1
+console.log(num1)
