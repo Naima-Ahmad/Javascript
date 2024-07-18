@@ -13,7 +13,7 @@
 // var a = 2;
 // var b = 1;
 // var result = --a - --b + ++b + b--;
-// console.log(result)
+// console.log(result);
 
 // Example 4
 // var num = 1 + 3 * 4;
@@ -40,11 +40,11 @@
 // console.log("Hello!"+ " " +fullName);
 
 // Example 9
-// document.write("<h1>Hello World!<h1>")
+// document.write("<h1>Hello World!<h1>");
 
 // Example 10
 // var mess = "Hello!"
-// document.write("<h1>"+ mess +"<h1>")
+// document.write("<h1>"+ mess +"<h1>");
 
 // Example 11
 console.log("2 plus 2 equals " + 2 + 2);
