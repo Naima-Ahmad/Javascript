@@ -34,7 +34,10 @@
 // console.log("Hello!"+ " " +firstName+ " " +lastName);
 
 // Example 8
-var firstName = "Naima";
-var lastName = "Ahmad";
-var fullName = firstName+ " " +lastName;
-console.log("Hello!"+ " " +fullName);
+// var firstName = "Naima";
+// var lastName = "Ahmad";
+// var fullName = firstName+ " " +lastName;
+// console.log("Hello!"+ " " +fullName);
+
+// Example 9
+document.write("<h1>Hello World!<h1>")
