@@ -20,5 +20,21 @@
 // console.log(num);
 
 // Example 5
-var num = (((2 * 4) + 8 - 4) + 10);
-console.log(num);   
+// var num = (((2 * 4) + 8 - 4) + 10);
+// console.log(num);
+
+// Example 6
+// var firstName = "Naima";
+// var lastName = "Ahmad";
+// console.log("Hello!"+firstName+lastName);
+
+// Example 7
+// var firstName = "Naima";
+// var lastName = "Ahmad";
+// console.log("Hello!"+ " " +firstName+ " " +lastName);
+
+// Example 8
+var firstName = "Naima";
+var lastName = "Ahmad";
+var fullName = firstName+ " " +lastName;
+console.log("Hello!"+ " " +fullName);
