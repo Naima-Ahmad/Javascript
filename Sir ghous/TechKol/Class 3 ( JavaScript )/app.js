@@ -40,4 +40,8 @@
 // console.log("Hello!"+ " " +fullName);
 
 // Example 9
-document.write("<h1>Hello World!<h1>")
+// document.write("<h1>Hello World!<h1>")
+
+// Example 10
+var mess = "Hello!"
+document.write("<h1>"+ mess +"<h1>")
