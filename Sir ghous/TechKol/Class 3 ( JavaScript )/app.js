@@ -43,5 +43,9 @@
 // document.write("<h1>Hello World!<h1>")
 
 // Example 10
-var mess = "Hello!"
-document.write("<h1>"+ mess +"<h1>")
+// var mess = "Hello!"
+// document.write("<h1>"+ mess +"<h1>")
+
+// Example 11
+console.log("2 plus 2 equals " + 2 + 2);
+console.log("2 minus 2 equals " + 2 - 2);
