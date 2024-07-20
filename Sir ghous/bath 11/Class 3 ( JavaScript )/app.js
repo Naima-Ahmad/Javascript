@@ -60,5 +60,23 @@
 // Example 10
 var perc = +prompt("Enter your percentage:");
 if(perc >= 90 && perc <= 100){
-    console.log("A++")
+console.log("A+")
+}
+else if(perc >= 80 && perc <= 90){
+    console.log("A")
+}
+else if(perc >= 70 && perc <= 80){
+    console.log("B")
+}
+else if(perc >= 60 && perc <= 70){
+    console.log("C")
+}
+else if(perc >= 50 && perc <= 60){
+    console.log("D")
+}
+else if(perc >= 40 && perc <= 50){
+    console.log("E")
+}
+else{
+    console.log("F")
 }
