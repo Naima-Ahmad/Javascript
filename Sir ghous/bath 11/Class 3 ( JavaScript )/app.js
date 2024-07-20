@@ -15,6 +15,26 @@
 // console.log(num+num2);
 
 // Example 3
-// var num = "2";
-// var num2 = 2;
+// var num = 2;
+// var num2 = "2";
 // console.log(num+num2+2);
+// var num = 2;
+// var num2 = "2";
+// console.log(2+num+num2);
+
+// Example 4
+// console.log(prompt("Enter you Name:","Naima Ahmad"));
+
+// Example 5
+// var userName = prompt("Enter you Name:","Naima Ahmad");
+// console.log(userName);
+
+// Example 6
+// var num1 = prompt("Enter first Number:");
+// var num2 = prompt("Enter second Number:");
+// console.log(num1+num2)
+
+// Example 7
+var num1 = +prompt("Enter first Number:");
+var num2 = +prompt("Enter second Number:");
+console.log(num1+num2)
