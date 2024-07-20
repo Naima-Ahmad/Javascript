@@ -49,10 +49,13 @@
 // }
 
 // Example 9
-var perc = +prompt("Enter you percentage:");
-if(perc >= 50){
-    console.log("Passed");
-}
-else{
-    console.log("Fail");
-}
+// var marks = +prompt("Enter you marks:");
+// if(marks >= 50){
+//     console.log("Passed");
+// }
+// else{
+//     console.log("Fail");
+// }
+
+// Example 10
+var perc = +prompt("Enter your percentage:");
