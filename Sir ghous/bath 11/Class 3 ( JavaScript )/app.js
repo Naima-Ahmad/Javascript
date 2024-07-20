@@ -40,6 +40,15 @@
 // console.log(num1+num2)
 
 // Example 8
+// var age = +prompt("Enter you age:");
+// if(age >= 20){
+//     console.log("Eligible");
+// }
+// else{
+//     console.log("Not eligible");
+// }
+
+// Example 9
 var perc = +prompt("Enter you percentage:");
 if(perc >= 50){
     console.log("Passed");
