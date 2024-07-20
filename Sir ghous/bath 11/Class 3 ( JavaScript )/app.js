@@ -35,6 +35,15 @@
 // console.log(num1+num2)
 
 // Example 7
-var num1 = +prompt("Enter first Number:");
-var num2 = +prompt("Enter second Number:");
-console.log(num1+num2)
+// var num1 = +prompt("Enter first Number:");
+// var num2 = +prompt("Enter second Number:");
+// console.log(num1+num2)
+
+// Example 8
+var perc = +prompt("Enter you percentage:");
+if(perc >= 50){
+    console.log("Passed");
+}
+else{
+    console.log("Fail");
+}
