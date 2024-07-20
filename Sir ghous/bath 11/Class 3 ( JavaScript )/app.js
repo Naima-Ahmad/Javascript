@@ -59,3 +59,6 @@
 
 // Example 10
 var perc = +prompt("Enter your percentage:");
+if(perc >= 90 && perc <= 100){
+    console.log("A++")
+}
