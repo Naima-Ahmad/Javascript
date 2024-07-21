@@ -16,6 +16,26 @@
 // }
 
 // Example 4
-var firstNum = +prompt("Enter a first number:");
-var secondNum = +prompt("Enter a second number:");
-console.log(firstNum+secondNum);
+// var firstNum = +prompt("Enter a first number:");
+// var secondNum = +prompt("Enter a second number:");
+// console.log(firstNum+secondNum);
+
+// Example 5
+var num1 = +prompt("First Number:");
+var num2 = +prompt("Second Number:");
+var opr = prompt("Operator:");
+if(opr == "+"){
+    console.log("The addition of "+num1+" + "+num2+" = ",num1+num2);
+}
+else if (opr == "-"){
+    console.log("The subtraction of "+num1+" - "+num2+" = ",num1-num2);
+}
+else if (opr == "*"){
+    console.log("The multiplication of "+num1+" * "+num2+" = ",num1*num2);
+}
+else if (opr == "/"){
+    console.log("The division of "+num1+" / "+num2+" = ",num1/num2);
+}
+else{
+    console.log("Enter only basic arithmetic operator")
+}
