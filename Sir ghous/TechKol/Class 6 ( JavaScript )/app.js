@@ -14,8 +14,20 @@
 // console.log(students[4]);
 
 // Example 3
-var student1 = "ghous";
-var student2 = "ahmed";
+// var student1 = "ghous";
+// var student2 = "ahmed";
+// var students = ["ghous", "ahmed", "ali", "raza", "khan"];
+// console.log(students[0] + " " + students[1]);
+// console.log(students[0] , " " , students[1]);
+
+// Example 4
+// var students = new Array("ghous", 'ahmed');
+// console.log(students)
+
+// Example 5
+// var sname = "ghous";
+// console.log(sname[0])
+
+// Example 6
 var students = ["ghous", "ahmed", "ali", "raza", "khan"];
-console.log(students[0] + " " + students[1]);
-console.log(students[0] , " " , students[1]);
+console.log(students.length)
