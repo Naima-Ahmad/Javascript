@@ -29,5 +29,16 @@
 // console.log(sname[0])
 
 // Example 6
-var students = ["ghous", "ahmed", "ali", "raza", "khan"];
-console.log(students.length)
+// var students = ["ghous", "ahmed", "ali", "raza", "khan"];
+// console.log(students.length)
+
+// Example 7
+// var students = [["ghous", "ahmed"], ["khan", "ali"]];
+// console.log(students[1][0])
+// console.log(students[1][1])
+// console.log(students[0][1])
+
+// Example 8
+var students = [["ghous", ["ahmed"]], ["khan", "ali"]];
+console.log(students[0][1][0][1])
+console.log(students[1][1][2])
