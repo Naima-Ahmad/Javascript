@@ -29,20 +29,36 @@
 // console.log(ab)
 
 // Example 6
-var cities = ['rawalpindi', 'islamabad', 'swat', 'sargodha'];
-var userCity = prompt("Enter your city Name: ");
-if(cities[0] == userCity){
-    alert("True")
-}
-else if(cities[1] == userCity){
-    alert("True")
-}
-else if(cities[2] == userCity){
-    alert("True")
-}
-else if(cities[3] == userCity){
-    alert("True")
-}
-else{
-    alert("False")
+// var cities = ['rawalpindi', 'islamabad', 'swat', 'sargodha'];
+// var userCity = prompt("Enter your city Name: ");
+// if(cities[0] == userCity){
+//     alert("True")
+// }
+// else if(cities[1] == userCity){
+//     alert("True")
+// }
+// else if(cities[2] == userCity){
+//     alert("True")
+// }
+// else if(cities[3] == userCity){
+//     alert("True")
+// }
+// else{
+//     alert("False")
+// }
+
+// Example 7
+// for(var i = 0; i < 10; i++){
+//     console.log(i)
+// }
+
+// Example 8
+// for(var i = 1; i <= 10; i++){
+//     document.write(2+" x "+i+" = "+2*i+"<br>")
+// }
+
+// Example 9
+var arr = ["Naima", "Laiba", "Hooriya", "Maria", "Musqan"];
+for(var i = 0; i < arr.length; i++){
+    document.write("<h1>"+arr[i]+"</h1>")
 }
