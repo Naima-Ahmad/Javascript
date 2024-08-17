@@ -24,6 +24,25 @@
 // console.log(met);
 
 // Example 5
-var arr = ['Hammad', 'Jawad', 'Hashir', 'Haris', 'Zohaib'];
-var ab = arr.reverse().join(" ")
-console.log(ab)
+// var arr = ['Hammad', 'Jawad', 'Hashir', 'Haris', 'Zohaib'];
+// var ab = arr.reverse().join(" ")
+// console.log(ab)
+
+// Example 6
+var cities = ['rawalpindi', 'islamabad', 'swat', 'sargodha'];
+var userCity = prompt("Enter your city Name: ");
+if(cities[0] == userCity){
+    alert("True")
+}
+else if(cities[1] == userCity){
+    alert("True")
+}
+else if(cities[2] == userCity){
+    alert("True")
+}
+else if(cities[3] == userCity){
+    alert("True")
+}
+else{
+    alert("False")
+}
