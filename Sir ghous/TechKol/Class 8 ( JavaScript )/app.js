@@ -31,6 +31,8 @@
 // Example 6
 // var cities = ['rawalpindi', 'islamabad', 'swat', 'sargodha'];
 // var userCity = prompt("Enter your city Name: ");
+// var cities = ['rawalpindi', 'islamabad', 'swat', 'sargodha'];
+// var userCity = prompt("Enter your city Name: ");
 // if(cities[0] == userCity){
 //     alert("True")
 // }
@@ -58,7 +60,38 @@
 // }
 
 // Example 9
-var arr = ["Naima", "Laiba", "Hooriya", "Maria", "Musqan"];
-for(var i = 0; i < arr.length; i++){
-    document.write("<h1>"+arr[i]+"</h1>")
+// var arr = ["Naima", "Laiba", "Hooriya", "Maria", "Musqan"];
+// for(var i = 0; i < arr.length; i++){
+//     document.write("<h1>"+arr[i]+"</h1>")
+// }
+
+// Example 10
+// var cities = ['rawalpindi', 'islamabad', 'swat', 'sargodha'];
+// var userCity = prompt("Enter your city Name: ");
+// for(var i = 0; i < cities.length; i++){
+//     if(userCity == cities[i]){
+//         alert("True");
+//         break;
+//     }
+//     else{
+//         alert("False")
+//         break;
+//     }
+// }
+
+// Example 11
+var cities = ['rawalpindi', 'islamabad', 'swat', 'sargodha'];
+var userCity = prompt("Enter your city Name: ");
+var fla = false
+for(var i = 0; i < cities.length; i++){
+    if(userCity == cities[i]){
+        fla = true
+    }
+break;
+}
+if(fla == true){
+    alert("True")
+}
+else{
+    alert("False")
 }
