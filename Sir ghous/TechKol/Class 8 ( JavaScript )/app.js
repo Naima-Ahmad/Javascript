@@ -17,6 +17,13 @@
 // console.log(str.split(' '));
 
 // Example 4
+// var arr = ['Hammad', 'Jawad', 'Hashir', 'Haris', 'Zohaib'];
+// var met = arr.reverse();
+// console.log(met);
+// met = arr.reverse('$');
+// console.log(met);
+
+// Example 5
 var arr = ['Hammad', 'Jawad', 'Hashir', 'Haris', 'Zohaib'];
-var met = arr.reverse();
-console.log(met);
+var ab = arr.reverse().join(" ")
+console.log(ab)
